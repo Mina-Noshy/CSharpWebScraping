@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GCL9VE2wGiD9dOa3SS7s82pcfJ70Z4qs6AQPH2U8vpUyGfk9Pnp1S36E+/XQxLfpaSNzPSj9ilePVO59wxm38w==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\web\\WebScraping\\ScrapingApp\\ScrapingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mina-\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}
