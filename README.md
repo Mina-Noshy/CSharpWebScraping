@@ -1,2 +1,2 @@
-# WebScraping
-sample web scraping using c sharp language
+# Web Scraping
+Web scraping using c sharp language
